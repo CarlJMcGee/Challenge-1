@@ -13,4 +13,4 @@ Horiseon's front page lacked optimal HTML semantics and search optimization.
 
 [Deployed Webpage](https://carljmcgee.github.io/Challenge-1_Horiseon-Refractor_CarlM/)
 
-![final screenshot](\assets\images\carljmcgee.github.io_Challenge-1_Horiseon-Refractor_CarlM_.png)
+![final screenshot](/assets/images/carljmcgee.github.io_Challenge-1_Horiseon-Refractor_CarlM_.pngassets\images\carljmcgee.github.io_Challenge-1_Horiseon-Refractor_CarlM_.png)
